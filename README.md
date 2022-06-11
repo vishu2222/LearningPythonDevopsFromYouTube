@@ -1,6 +1,6 @@
 # Learning Python Devops From YouTube tutorials 
 
-https://www.youtube.com/watch?v=kwZNpieUreA&list=PLdfopzFjkPz_6h6WGWRpdXVsB3_7Gx402&index=2
+[link to tutorial](https://www.youtube.com/watch?v=kwZNpieUreA&list=PLdfopzFjkPz_6h6WGWRpdXVsB3_7Gx402&index=2)
 
 # python-for-devops
 Repository for doing python DevOpa from zero
