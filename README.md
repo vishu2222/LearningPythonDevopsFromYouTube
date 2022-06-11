@@ -19,7 +19,11 @@ This is an example of notebook in [colab](https://colab.research.google.com/driv
   * Dockerfile
   * command line tool
   * Microservice
-### AWS CloudShell
+
+  1. create a virtual enviornment inside home directory 'virtualenv ~/.venv'
+  2. edit my '~.bashrc'  to run the virtual enviornment at every invocation of the interpreter. command 'vim ~/.bashrc'. Goto bottom 'shift G'
+
+### AWS CloudShell 
 ### AWS Cloud9
 ## Command-Line Tools
 
