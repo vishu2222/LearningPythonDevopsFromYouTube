@@ -9,7 +9,16 @@ Repository for doing python DevOpa from zero
 
 * create a development enviornment
 ### Colab Notebook
+This is an example of notebook in [colab](https://colab.research.google.com/drive/1QQuxkAAfA9YcL9IgCyFEnjMo82UAhfEW#scrollTo=jrpVLVkt73wc)
 ### GitHub
+  Build out python project scaffold
+  * Makefile
+  * requirements.txt
+  * test_library
+  * python library
+  * Dockerfile
+  * command line tool
+  * Microservice
 ### AWS CloudShell
 ### AWS Cloud9
 ## Command-Line Tools
