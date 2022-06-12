@@ -23,7 +23,8 @@ This is an example of notebook in [colab](https://colab.research.google.com/driv
   * Microservice
 
   1. create a virtual enviornment inside home directory 'virtualenv ~/.venv'
-  2. edit my '~.bashrc'  to run the virtual enviornment at every invocation of the interpreter. command 'vim ~/.bashrc'. Goto bottom 'shift G'
+  2. edit my '~.bashrc'  'source ~/.venv/bin/activate'
+  3. clone project then run 'make all'
 
 ### AWS CloudShell 
 ### AWS Cloud9
