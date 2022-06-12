@@ -1,4 +1,3 @@
-
 [![Test Multiple Python Versions](https://github.com/vishu2222/LearningPythonDevopsFromYouTube/actions/workflows/main.yml/badge.svg)](https://github.com/vishu2222/LearningPythonDevopsFromYouTube/actions/workflows/main.yml)
 
 # Learning Python Devops From YouTube tutorials 
