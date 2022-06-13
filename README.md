@@ -1,6 +1,6 @@
 [![Test Multiple Python Versions](https://github.com/vishu2222/LearningPythonDevopsFromYouTube/actions/workflows/main.yml/badge.svg)](https://github.com/vishu2222/LearningPythonDevopsFromYouTube/actions/workflows/main.yml)
 
-# Learning Python Devops From YouTube tutorials 
+# Learning Python Devops 
 
 [link to tutorial](https://www.youtube.com/watch?v=kwZNpieUreA&list=PLdfopzFjkPz_6h6WGWRpdXVsB3_7Gx402&index=2)
 
